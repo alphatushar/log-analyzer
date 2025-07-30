@@ -14,3 +14,10 @@ This project analyzes **server access logs** to extract:
 ## 📊 Example Output
 
 **`reports/summary.csv`**
+
+---
+
+## 📄 Tools Used
+- Python 3
+- Docker
+- CSV & JSON Reporting
