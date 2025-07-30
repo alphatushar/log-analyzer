@@ -22,3 +22,8 @@ This project analyzes **server access logs** to extract:
 - Python 3
 - Docker
 - CSV & JSON Reporting
+
+---
+
+### Author
+Tushar Sharma
