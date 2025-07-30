@@ -14,6 +14,7 @@ This project analyzes **server access logs** to extract:
 ## 📊 Example Output
 
 **`reports/summary.csv`**
+**`reports/summary.json`**
 
 ---
 
